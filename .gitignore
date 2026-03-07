@@ -1,0 +1,23 @@
+# Training notebook (private)
+*.ipynb
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# LoRA weights
+lora_*/
+
+# Training outputs
+outputs_*/
+bach_sft_data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
