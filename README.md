@@ -80,7 +80,7 @@ A408  →  A4 (音高) + 08 (八分音符)
 
 ## Demo 範例
 
-### ✅ 成功：BWV 400 — *O Herzensangst, o Bangigkeit*
+### 成功：BWV 400 — *O Herzensangst, o Bangigkeit*
 
 Ground truth 與模型預測**完全一致**：
 
@@ -91,7 +91,7 @@ a404 B404 B404 C502 | D504 d54. d508 F504 d504 D502 C502 |
 a404 C54. D508 d504 d502 D504 d52. |
 ```
 
-### ❌ 失誤：BWV 245.17 — *Herzliebster Jesu*
+### 失誤：BWV 245.17 — *Herzliebster Jesu*
 
 ```diff
   Ground Truth:  ...B404 C504 C504 D504 C516 B416 C508 B404 |  ← 14 notes
